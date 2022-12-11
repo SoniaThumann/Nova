@@ -1,0 +1,393 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@100;200;300;400;500;600;700;800;900;1000&display=swap');
+body{
+	font-family: 'Mulish', sans-serif;
+}
+#hero h2{
+	background-color: #8D2B23;
+	font-size: 15px;
+	color: #FFFFFF;
+	font-weight: 500;
+	margin-bottom: 0;
+	padding-left: 15px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	text-transform: uppercase;
+}
+h1{
+	background-color: #8D2B23;
+	font-size: 25px;
+	color: #FFFFFF;
+	font-weight: 500;
+	padding: 30px 0px 30px 80px;
+	text-align: left;
+}
+
+.nav-item{
+	font-family: 'Mulish', sans-serif;
+	text-transform: uppercase;
+	font-weight:200;
+	color: #8D2B23;
+}
+#masbuscado {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 5px;
+	font-weight: 100;
+}
+#masbuscado h5{
+	padding: 10px;
+	font-size: 15px;
+}
+#masbuscado h6{
+	text-transform: uppercase;
+	font-size: 15px;
+	color: #fff;
+	text-align: center;
+	background-color: #192A56;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+#entrevistas {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.titulo{
+	text-transform: uppercase;
+	font-size: 15px;
+	color: #fff;
+	text-align: center;
+	background-color: #192A56;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+#entrevistas h5{
+	padding-top: 20px;
+	font-size: 20px;
+	color: #fff;
+	text-align: left;
+	text-transform: uppercase;
+}
+#entrevistas p{
+	padding-top: 20px;
+	font-size: 18px;
+}
+#entrevistas .card{
+	color: #fff;
+	background-color: #8D2B23;
+	border: 0;
+	border-radius: 0;
+}
+footer{
+	color: #fff;
+	background-color: #192A56;
+	text-transform: uppercase;
+	font-size: 13px;
+	margin-top: 20px;
+	text-align: center;
+}
+footer p{
+	padding-bottom: 0px;
+}
+footer ul{
+	padding-top: 3%;
+}
+.la-facebook-f {
+	background-color:#FFFAFA;
+	border-radius:50%;
+	padding:15%;
+	color:#06007A;
+}
+.la-instagram{
+	background-color:#FFFAFA;
+	border-radius:50%;
+	padding:15%;
+	color:#06007A;
+}
+.la-linkedin-in{
+	background-color:#FFFAFA;
+	border-radius:50%;
+	padding:15%;
+	color:#06007A;
+}
+.la-twitter{
+	background-color:#FFFAFA;
+	border-radius:50%;
+	padding:15%;
+	color:#06007A;
+}
+footer img{
+	padding-top: 50px;
+	padding-bottom: 25px;
+	width: 250px;
+}
+footer h2 {
+	color: #fff;
+	text-align:center;
+	font-size: 25px;
+	font-weight: 800;
+	padding-top: 30px;
+}
+.card{
+	border-radius: 0;
+	border-color:  #8D2B23;
+	border-width: thick;
+	margin-top: 30px;
+}
+h5{
+	color: #1A2A57;
+}
+h6{
+	color: #1A2A57;
+}
+#tec{
+	padding-top: 200px;
+	color: #192A56;
+}
+#tec p{
+	padding-top: 15px;
+	color: #192A56;
+	font-size: 20px;
+}
+#tec h2{
+	padding-top: 20px;
+	font-size: 25px;
+	text-transform: uppercase;
+	color: #192A56;
+}
+#tec h5{
+	padding-top: 20px;
+	color: #192A56;
+	font-size: 22px;
+}
+#noticia h2{
+	padding-top: 20px;
+	font-size: 25px;
+	text-transform: uppercase;
+	color: #192A56;
+}
+#noticia h5{
+	padding-top: 20px;
+	color: #192A56;
+	font-size: 22px;
+}
+#noticia p{
+	padding-top: 15px;
+	color: #192A56;
+	font-size: 20px;
+}
+#cineytv {
+	background-image: url("../img/stage.jpg");
+	background-size: cover;
+	background-position: top center;
+}
+#cineytv h2{
+	color: #fff;
+	font-size: 30px;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 200px;	
+	font-weight: 800;
+}
+#peliculas {
+	margin-top: 40px;
+	padding-top: 50px;
+}
+#peliculas h5{
+	text-transform: uppercase;
+	font-size: 15px;
+	margin-top: 10px;
+	margin-bottom: 25px;
+}
+#peliculas h3{
+	color: #192A56;
+	border-bottom-color: #8F2826;
+	border-bottom: 3px solid #8F2826;
+	margin-bottom: 30px;
+}
+#contacto p{
+font-size: 20px;
+color: #1A2A57;
+width: auto;
+}
+.submission-form{
+	font-size: 30px;
+	color: #192A56; 
+}
+#novedades {
+	margin-top: 40px;
+	padding-top: 50px;
+}
+
+#novedades h5{
+	text-transform: uppercase;
+	font-size: 15px;
+	margin-top: 10px;
+	margin-bottom: 25px;
+}
+
+#novedades h3{
+	color: #192A56;
+	border-bottom-color: #8F2826;
+	border-bottom: 3px solid #8F2826;
+	margin-bottom: 30px;
+}
+#cienciaytec{
+	background-image: url("../img/cienciaytec.webp");
+	background-size: cover;
+	background-position: top center;
+}
+#cienciaytec h2{
+	color: #fff;
+	font-size: 30px;
+	font-weight: 800;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 200px;	
+}
+a{
+	text-decoration: none;
+	color: #fff; 
+}
+a:hover{
+	text-decoration: underline;
+	text-decoration-color: #8F2826;
+	color: #192A56;
+}
+
+#contact-form{
+	padding: 30px 0;
+}
+
+#contact-form .info-form{
+	background-color: #FFFFFF;
+	padding: 30px 50px 50px;
+	text-align: center;
+	box-shadow: 0px 0px 30px 0px #ddd;
+
+}
+
+#contact-form input, #contact-form textarea{
+	padding: 10px;
+	border-radius: 0px;
+	border-width: 5px;
+	border-color: #8F2826; 
+}
+#cienciaytec{
+	background-image: url("../img/cienciaytec.webp");
+	background-size: cover;
+	background-position: top center;
+}
+#cienciaytec h2{
+	color: #fff;
+	font-size: 30px;
+	font-weight: 800;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 200px;	
+}
+a{
+	text-decoration: none;
+	color: #fff; 
+}
+a:hover{
+	text-decoration: underline;
+	text-decoration-color: #8F2826;
+	color: #192A56;
+}
+#metaquest{
+	background-image: url("../img/Meta-Quest-Pro-Gadget-Lab-Podcast-Gear.webp");
+	background-size: cover;
+	background-position: top center;
+}
+#metaquest h2{
+	color: #fff;
+	font-size: 30px;
+	font-weight: 1000;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 200px;	
+}
+#metainfo{
+	margin-top: 40px;
+	padding-top: 50px;
+}
+#metainfo h3{
+	color: #192A56;
+	border-bottom-color: #8F2826;
+	border-bottom: 3px solid #8F2826;
+	margin-bottom: 30px;
+	font-size: 30px;
+	font-weight: 700;
+}
+#conan{
+	background-image: url("../img/8ca5a835-9a0e-4096-aee6-b0f002d9aa6b_alta-libre-aspect-ratio_default_0.jpg");
+	background-size: cover;
+	background-position: center;
+}
+#conan h2{
+	color: #fff;
+	font-size: 30px;
+	font-weight: 1000;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 200px;	
+}
+#bacteria h3{
+	color: #192A56;
+	border-bottom-color: #8F2826;
+	border-bottom: 3px solid #8F2826;
+	margin-bottom: 30px;
+	font-size: 30px;
+	font-weight: 700;
+	margin-top: 40px;
+	padding-top: 50px;
+}
+
+#ethanhawke{
+background-image: url("../img/blackphone.jpeg");
+	background-size: cover;
+	background-position: center;
+}
+
+#ethanhawke h2{
+color: #fff;
+	font-size: 30px;
+	font-weight: 1000;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 200px;	
+}
+#ethaninfo img{
+padding-bottom: 20px;
+}
+
+#ethaninfo h3{
+color: #192A56;
+	border-bottom-color: #8F2826;
+	border-bottom: 3px solid #8F2826;
+	margin-bottom: 30px;
+	font-size: 30px;
+	font-weight: 700;
+	margin-top: 40px;
+	padding-top: 50px;	
+}
+
+#ethaninfo h4{
+padding-top: 20px;
+	padding-bottom: 20px;}
+
+#ethaninfo2 h4{
+padding-top: 40px;
+	padding-bottom: 20px;
+}
+
+#ethaninfo2 p{
+padding: 95px 0;
+}
+
+footer .la-instagram, .la-facebook-f, .la-linkedin-in, .la-twitter{
+	font-size: 25px;
+	margin-bottom: 20px;
+}
